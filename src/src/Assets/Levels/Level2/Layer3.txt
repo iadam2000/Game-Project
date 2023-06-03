@@ -1,0 +1,82 @@
+//THIS IS LEVEL TWO UPPER LAYER
+
+
+// These are obstacles
+
+
+// These are obstacles - x position, y position, width, height : type (obstacle/platform)
+220, 40, 15, 15 : obstacle;
+350, 10, 450, 15 : obstacle; 
+950, 0, 260, 10 : obstacle;
+1270, 0, 500, 10 : obstacle;
+1770, 0, 220, 10 : obstacle;
+2010, 30, 60, 10 : obstacle;
+2090, 0, 390, 10 : obstacle; 
+2090, 50, 200, 10 : obstacle;
+
+// These are platforms - x position, y position, width, height : type (obstacle/platform)
+0, 0, 950, 10 : platform; 
+960, 20, 150, 10 : platform;
+1130, 20, 60, 10 : platform;
+
+// Player can go up or down
+
+1210, 0, 60, 10 : platform;         // Down option
+
+//Checkpoint at 1200 (#4)
+
+1180, 40, 160, 10 : platform;        // Up section       
+1220, 50, 30, 10 : platform;
+1250, 60, 50, 10 : platform;
+1300, 70, 50, 10 : platform;
+1360, 80, 60, 10 : platform;
+1390, 90, 50, 10 : platform;
+1440, 85, 60, 10 : platform;
+1520, 100, 60, 10 : platform;
+1590, 70, 250, 10 : platform;
+
+1290, 20, 60, 10 : platform;        //Down section
+1370, 20, 60, 10 : platform;
+1450, 20, 60, 10 : platform;
+1530, 20, 60, 10 : platform;
+1610, 20, 60, 10 : platform;
+1690, 20, 60, 10 : platform;
+1770, 20, 60, 10 : platform;
+1850, 20, 60, 10 : platform;
+1930, 20, 60, 10 : platform;
+1990, 0, 100, 10 : platform; 
+2110, 20, 250, 10 : platform;
+2380, 40, 100, 10 : platform;
+2480, 0, 20, 10 : platform;
+2500, 0, 300, 10 : platform;
+
+180, 50: enemy;
+1040, 15 : enemy;
+1400, 40 : enemy;
+1480, 40 : enemy;
+1640, 40 : enemy;
+1720, 40 : enemy;
+1800, 40 : enemy; 
+1880, 40 : enemy;
+1650, 90 : enemy;
+1660, 90 : enemy;
+1670, 90 : enemy;
+1680, 90 : enemy;
+1690, 90 : enemy;
+1700, 90 : enemy;
+1710, 90 : enemy;
+1720, 90 : enemy;
+1730, 90 : enemy;
+1740, 90 : enemy;
+1750, 90 : enemy;
+1760, 90 : enemy;
+1770, 90 : enemy;
+1780, 90 : enemy;
+1790, 90 : enemy;
+1800, 90 : enemy;
+1810, 90 : enemy;
+2150, 40 : enemy;
+2200, 40 : enemy;
+2250, 40 : enemy;
+2300, 40 : enemy;
+2350, 40 : enemy;

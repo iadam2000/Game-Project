@@ -1,0 +1,63 @@
+//THIS IS LEVEL FIVE UPPER LAYER
+//PLAYER CAN JUMP 38 AND 40 UNITS
+//PLAYER CAN JUMP 76 AND 80 UNITS WITH DOUBLE JUMP EQUIPPED
+//TEMPORARY PLAYER SIZE 20 UNITS WHILST DUCKING 15 UNITS
+//3700 UNITS TOTAL LEVEL - CHECKPOINT AT 1850
+
+300, 0, 700, 10 : obstacle;
+1250, 10, 10, 10 : obstacle;
+1270, 40, 10, 10 : obstacle;
+1290, 10, 10, 10 : obstacle;
+1490, 80, 50, 10 : obstacle;
+1560, 90, 20, 10 : obstacle;
+1580, 100, 20, 10 : obstacle;
+1600, 110, 20, 10 : obstacle;
+1620, 120, 20, 10 : obstacle;
+1636, 0, 35, 10 : obstacle;
+1640, 130, 20, 10 : obstacle;
+1660, 140, 20, 10 : obstacle;
+1680, 150, 20, 40 : obstacle;
+1660, 120, 20, 10 : obstacle;
+1680, 110, 20, 10 : obstacle;
+1700, 100, 20, 10 : obstacle;
+1720, 90, 20, 10 : obstacle;
+1740, 80, 20, 10 : obstacle;
+1760, 70, 20, 10 : obstacle;
+1780, 60, 10, 10 : obstacle;
+1810, 0, 20, 10 : obstacle;
+1835, 0, 20, 10 : obstacle;
+1840, 160, 100, 10 : obstacle; 
+1855, 0, 1845, 10 : obstacle;
+1960, 160, 100, 10 : obstacle;
+2000, 70, 20, 20 : obstacle;
+2020, 80, 20, 20 : obstacle;
+2020, 110, 20, 50 : obstacle;
+
+0, 0, 300, 10 : platform;
+800, 10, 135, 10 : platform;
+1000, 0, 636, 10 : platform;
+1250, 50, 100, 10 : platform;
+1410, 90, 100, 10 : platform;
+1545, 125, 75, 10 : platform;
+1620, 155, 50, 10 : platform; 
+1705, 125, 75, 10 : platform;
+1800, 105, 75, 10 : platform;
+1920, 70, 80, 10 : platform;
+1670, 0, 140, 10 : platform;
+1830, 0, 5, 10 : platform;
+1860, 25, 200, 10 : platform;
+3700, 0, 300, 10 : platform;
+
+820, 30 : doubleJump;
+1030, 30 : doubleJump;
+1275, 70 : doubleJump;
+1700, 20 : doubleJump;
+
+1640, 175 : slowDown;
+
+1510, 15 : enemy;
+1840, 120 : enemy;
+
+1550, 20 : movingEnemy;
+1600, 35 : movingEnemy;
+1650, 250 : movingEnemy;

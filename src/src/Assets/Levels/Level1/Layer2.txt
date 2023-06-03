@@ -1,0 +1,74 @@
+// The "//" can make comments in the text file as well.
+// Please only have either some obstacle data or a comment on a line - everything else will break things.
+// This text will be ignored when it comes to processing, but probably best to keep things reasonable.
+// Whitespace in the text will be removed during processing.
+
+// The accepted layout for obstacles and platforms is [x position, y position, width, height : type (obstacle/platform);].
+// The accepted layout for enemies is [x position, y position, : type (enemy/movingEnemy);].
+// The accepted types are [obstacle, platform, enemy, movingEnemy].
+// REMEMBER TO ADD ';' ON THE END OF EACH LINE!
+
+// There are no checks for overlapping entities here, please do that yourself.
+
+// FOR ALL
+// The values for x/y/width/height should be integers only.
+
+// Example below
+
+// These are obstacles
+
+//obstacles are 15 units high, where applicable, player can jump 20 units high
+//obstacles are 15 units wide, where applicable, player can jump 20 units across
+
+
+
+//THIS IS LEVEL ONE MIDDLE LAYER
+//0 units until 1100 units
+
+// These are obstacles - x position, y position, width, height : type (obstacle/platform)
+
+160, 10, 10, 15 : obstacle;
+220, 10, 10, 15 : obstacle; 
+300, 70, 35, 5 : obstacle;
+360, 10, 50, 10 : obstacle;
+420, 10, 50, 10 : obstacle;
+510, 35, 30, 10 : obstacle;   
+570, 0, 530, 10 : obstacle;
+1100, 0, 900, 10 : obstacle; //The player cannot pass this point (they are forced to switch to another layer) so this obstacle continues until the end of the level
+
+
+// These are platforms - x position, y position, width, height : type (obstacle/platform)
+0, 0, 570, 10 : platform; 
+300, 15, 50, 10 : platform;
+360, 25, 50, 10 : platform;
+420, 35, 50, 10 : platform;
+580, 10, 25, 10 : platform;
+615, 20, 30, 10 : platform;
+660, 30, 30, 10 : platform;
+700, 40, 30, 10 : platform;
+740, 50, 30, 10 : platform;
+780, 60, 30, 10 : platform;
+820, 50, 30, 10 : platform;
+860, 40, 30, 10 : platform;
+900, 30, 30, 10 : platform;
+940, 20, 30, 10 : platform;
+980, 10, 30, 10 : platform;
+1050, 10, 30, 10 : platform;
+1350, 40, 150, 10: platform;
+2000, 0, 300, 10 : platform;
+//This platform is impossible to reach - player will have to change to different layer
+
+
+
+//Player speed increases by 1.1x initial amount
+//player can now jump 22 units across 
+//units jumped high remains the same
+
+//Checkpoint 1 implemented at 1100 units
+1000, 20 : checkpoint;
+
+2200, 20 : levelEnd;
+
+
+
+

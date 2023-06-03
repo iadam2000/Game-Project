@@ -1,0 +1,18 @@
+//THIS IS LEVEL TWO LOWER LAYER
+
+
+
+300, 0, 1000, 10 : obstacle;
+2100, 0, 20, 10 : obstacle;
+2300, 0, 200, 10 : obstacle;
+
+0, 0, 300, 10: platform;
+1300, 0, 800, 10 : platform;
+2120, 0, 180, 10 : platform;
+2310, 15, 50, 10 : platform;
+2375, 40, 125, 10 : platform;
+2500, 0, 300, 10 : platform;
+
+1900, 20 : enemy;
+2200, 20 : enemy;
+2425, 60 : enemy;

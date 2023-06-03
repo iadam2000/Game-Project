@@ -1,0 +1,8 @@
+Narrator: ---You sink down beside a boulder, wheezing. The air must be thinner here. ---You can't be THAT unfit. Despite this, you can't help but smile as you look ---at the last fragment of the device. Your task is finally over. Now all you need to do is assemble ---the device.
+Narrator: ---As you slide the first fragment into place around the original piece ---Queen Elizabeth gave you, you hear a crack from somewhere behind you. You freeze for a moment, ---then slowly lean over to peer around your boulder. You see agent Furcifer pacing a short way off.
+Narrator: ---They're coming closer to your hiding spot. You duck back behind the boulder. ---With renewed vigour, you set about slotting the remaining four fragments into place.
+Narrator: ---Despite the pressing nature of the situation, you can't help but wonder what ---all the engraved words were about. However, as the last fragment slides into place - hiding the ---final of the engravings: "UP" - you set your curiosity aside. Now is not the time.
+Narrator: ---With the device fully assembled, you risk a glance around the boulder again. ---You almost shout in surprise. Agent Furcifer is only a couple of steps away from the boulder! ---Desperately hoping that they didn't spot you, you duck back behind the boulder ---and begin to scan the device.
+Narrator: ---The purple switch has been ---hidden by the fragments, so there must be a new way to activate it.
+Narrator: ---After a moment of scanning, you find a small screen on one of its faces. ---It lights up as you look at it and displays some text. You groan aloud as you read it, ---but immediately stop as you realise what you're doing. The device wants you to enter five passwords. ---But what could they possibly be?
+ENTER PASSWORD (5 WORDS):

@@ -1,0 +1,46 @@
+// THIS IS LEVEL THREE LOWER LAYER
+// Player can jump 30 units and after checkpoint 32 units
+// Assume character is 15 units large
+
+// layer can play from 0 units until 2010 units & 2500 units until 2900
+
+250,    10,    20,     10 : obstacle;
+350,    10,    15,     10 : obstacle;
+450,    10,    20,     10 : obstacle;
+550,    10,    15,     10 : obstacle;
+650,    10,    20,     10 : obstacle;
+750,    10,    15,     10 : obstacle;
+850,    10,    20,     10 : obstacle;
+1000,   0,     930,    10 : obstacle;
+1600,   80,    10,     10 : obstacle;
+2100,   0,     400,    10 : obstacle;
+2750,   50,    150,    10 : obstacle;
+
+0,      0,      1000,   10 : platform;
+1000,   10,     60,     10 : platform;
+1060,   20,     60,     10 : platform;
+1120,   30,     60,     10 : platform;
+1180,   40,     60,     10 : platform;
+1240,   50,     60,     10 : platform;
+1300,   60,     60,     10 : platform;
+1360,   70,     250,    10 : platform;
+1610,   60,     80,     10 : platform;
+1690,   50,     80,     10 : platform;
+1770,   60,     80,     10 : platform;
+1850,   70,     80,     10 : platform;
+1930,   0,      170,    10 : platform;
+2150,   100,    250,    10 : platform;
+2500,   0,      100,    80 : platform;
+2600,   80,     50,     10 : platform;
+2650,   70,     50,     10 : platform;
+2700,   60,     50,     10 : platform;
+2750,   80,     150,    10 : platform;
+2900,   0,      300,    10 : platform;
+
+1400, 45 : enemy;
+1950, 115 : enemy;
+2200, 15 : enemy;
+2350, 15 : enemy;
+
+250, 60 : movingEnemy;
+2825, 100 : movingEnemy;

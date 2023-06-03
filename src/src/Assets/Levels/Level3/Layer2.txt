@@ -1,0 +1,53 @@
+// THIS IS LEVEL THREE MIDDLE LAYER
+// PLAYER CAN JUMP 30 AND 32 UNITS
+
+// Player can play from 0 units until 700 units & 1000 units until 1850 units
+
+//x,    y,      width,  height, type
+150,    0,      1150,   10 : obstacle;
+400,    40,     20,     10 : obstacle;
+585,    40,     15,     10 : obstacle;
+650,    30,     20,     10 : obstacle;
+1050,   80,     20,     50 : obstacle;
+1180,   30,     20,     20 : obstacle;
+1350,   20,      10,     20 : obstacle;
+1900,   0,      900,    20 : obstacle;
+
+0,      0,      150,    10 : platform;
+150,    20,     50,     20 : platform;
+200,    20,     50,     10 : platform;
+250,    30,     50,     10 : platform;
+300,    40,     100,    10 : platform;
+420,    50,     100,    10 : platform;
+520,    40,     65,     10 : platform;
+600,    30,     50,     10 : platform;
+670,    30,     30,     10 : platform;
+800,    50,     100,    10 : platform;
+1000,   30,     200,    10 : platform;
+1200,   20,     50,     10 : platform;
+1250,   10,     50,     10 : platform;
+1300,   0,      200,    10 : platform;
+1500,   10,     50,     10 : platform;
+1550,   20,     50,     10 : platform;
+1600,   30,     50,     10 : platform;
+1650,   40,     50,     10 : platform;
+1700,   50,     50,     10 : platform;
+1750,   60,     50,     10 : platform;
+1800,   70,     50,     10 : platform;
+1850,   0,      50,     80 : platform;
+2000,   90,     50,     10 : platform;
+2250,   90,     50,     10 : platform;
+2500,   90,     50,     10 : platform;
+2750,   90,     50,     10 : platform;
+2800,   0,      100,    10 : platform;
+2900,   0,      300,    10 : platform;
+
+2900,   115 : enemy;
+3050,   115 : enemy;
+
+470,    120 : movingEnemy;
+1100,   50 : movingEnemy;
+1850,   120 : movingEnemy;
+
+1700, 20 : checkpoint;
+3150, 20 : levelEnd;

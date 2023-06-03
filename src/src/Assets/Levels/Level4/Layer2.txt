@@ -1,0 +1,80 @@
+THIS IS LEVEL FOUR MIDDLE LAYER - player jumps 34 units and 36 units after the checkpoint (17 and 18 with slowdown)
+
+170, 70, 25, 10 : obstacle;
+
+100, 0, 20, 10 : obstacle;
+245, 0, 15, 10 : obstacle;
+300, 0, 200, 10 : obstacle;
+600, 10, 10, 10 : obstacle;
+630, 60, 50, 10 : obstacle;
+700, 0, 20, 10 : obstacle;
+800, 10, 10, 10 : obstacle;
+900, 10, 10, 10 : obstacle;
+940, 10, 10, 10 : obstacle;
+1000, 0, 700, 10 : obstacle;
+1800, 0, 200, 10 : obstacle; 
+1990, 10, 10, 100 : obstacle;
+2000, 0, 700, 10 : obstacle;
+2050, 25, 30, 10 : obstacle;
+2100, 25, 30, 10 : obstacle;
+2150, 25, 30, 10 : obstacle;
+2200, 25, 30, 10 : obstacle;
+2250, 25, 30, 10 : obstacle;
+2300, 25, 30, 10 : obstacle;
+2350, 25, 30, 10 : obstacle;
+2400, 25, 30, 10 : obstacle;
+2450, 25, 30, 10 : obstacle;
+2500, 25, 30, 10 : obstacle;
+2550, 25, 30, 10 : obstacle;
+2600, 25, 30, 10 : obstacle;
+2650, 25, 30, 10 : obstacle;
+2950, 0, 450, 10 : obstacle;
+
+0, 0, 100, 10 : platform;
+120, 0, 125, 10 : platform;
+//195, 0, 50, 10 : platform;
+260, 0, 40, 10 : platform;
+310, 20, 30, 10 : platform;
+360, 30, 50, 10 : platform;
+430, 50, 50, 10 : platform;
+500, 0, 200, 10 : platform;
+600, 20, 10, 10 : platform;
+720, 0, 280, 10 : platform;
+1700, 0, 100, 10 : platform;
+1800, 20, 50, 10 : platform;
+1870, 30, 50, 10 : platform;
+1940, 40, 75, 10 : platform;
+2700, 0, 250, 10 : platform;
+3300, 0, 300, 10 : platform;
+
+
+// Decoration blocks
+2725, 50, 20, 100 : obstacle;
+2745, 50, 30, 20 : obstacle;
+2745, 85, 30, 20 : obstacle;
+2745, 125, 30, 25 : obstacle;
+2800, 50, 50, 15 : obstacle;
+2800, 135, 50, 15 : obstacle;
+2800, 65, 7, 10 : obstacle;
+2807, 75, 7, 10 : obstacle;
+2814, 85, 7, 10 : obstacle;
+2821, 95, 7, 10 : obstacle;
+2828, 105, 7, 10 : obstacle;
+2835, 115, 7, 10 : obstacle;
+2842, 125, 8, 10 : obstacle;
+
+// End of decoration blocks
+
+
+550, 140 : movingEnemy;
+760, 40 : movingEnemy;
+1000, 100 : movingEnemy;
+
+140, 40 : enemy;
+370, 55 : enemy;
+1860, 50 : enemy;
+
+220, 20 : slowDown;
+
+1750, 20 : checkpoint;
+3500, 20 : levelEnd;

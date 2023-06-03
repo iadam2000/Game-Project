@@ -1,0 +1,44 @@
+// THIS IS LEVEL THREE UPPER LAYER
+// PLAYER CAN JUMP 30 AND 32 UNITS
+
+// Player can play from 0 until 800 units & 1300 until 1700 units & 2000 units until 2500
+
+0,      0,      500,    10 : platform;
+500,    10,     250,    10 : platform;
+750,    20,     50,     10 : platform;
+900,    20,     50,     10 : platform;
+1000,   20,     50,     10 : platform;
+1100,   20,     50,     10 : platform;
+1200,   20,     50,     10 : platform;
+1300,   0,      50,     10 : platform;
+1370,   15,     50,     10 : platform;
+1440,   35,     50,     10 : platform;
+1510,   55,     50,     10 : platform;
+1580,   75,     140,    10 : platform;
+1700,   0,      400,    10 : platform;
+2120,   0,      80,     10 : platform;
+2200,   20,     200,    10 : platform;
+2400,   0,      100,    10 : platform;
+2520,   0,      260,    10 : platform;
+2700,   20,     60,     10 : platform;
+2760,   40,     70,     10 : platform;
+2860,   50,     40,     10 : platform;
+2900,   0,      300,    10 : platform;
+
+500,    0,      800,    10 : obstacle;
+1350,   0,      350,    10 : obstacle;
+1780,   75,     220,    10 : obstacle;
+2100,   0,      20,     10 : obstacle;
+2380,   30,     10,     10 : obstacle;
+2200,   0,      200,    10 : obstacle;
+2500,   0,      20,     10 : obstacle;
+2700,   0,      200,    10 : obstacle;
+
+350, 115 : enemy;
+2230, 35 : enemy;
+2950, 30 : enemy;
+
+1650, 55 : movingEnemy;
+2050, 40 : movingEnemy;
+2700, 70 : movingEnemy;
+2750, 60 : movingEnemy;

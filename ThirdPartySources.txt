@@ -1,0 +1,651 @@
+﻿THIRD-PARTY SOFTWARE NOTICES AND INFORMATION
+
+
+1. emperor nero (https://openclipart.org/detail/291469/emperor-nero) CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+2. Buildings icon (https://openclipart.org/detail/104581/buildings-icon) CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+3. Flat Shaded Mountains Scene(https://openclipart.org/detail/255870/flat-shaded-mountains-scene) CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+4. Doric temple(https://openclipart.org/detail/282239/doric-temple) CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+5. Jupiter 3(https://openclipart.org/detail/287496/jupiter-3) CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+6. Hera (https://openclipart.org/detail/22317/hera) CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+7. Dinosaur (https://openclipart.org/detail/248938/dinosaur) CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+8. Long road in the desert (https://openclipart.org/detail/276266/long-road-in-the-desert) CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+9. Factory (https://openclipart.org/detail/23962/factory) CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+10. Man in a White Suit(https://openclipart.org/detail/280256/man-in-a-white-suit) CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+11. Man in brown/green suit (https://openclipart.org/detail/232961/man-in-browngreen-suit) CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+12. Snail (https://openclipart.org/detail/201617/snail) CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+13. Bursting tiles on white background (https://openclipart.org/detail/325747/bursting-tiles-on-white-background) CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+14. Checkered flag (https://openclipart.org/detail/62629/checkered-flag) CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+15. Game Over Arcade (https://freesound.org/people/myfox14/sounds/382310/) CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+16. Jump_C_0 (https://freesound.org/people/cabled_mess/sounds/350898/) CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+17. Jump05.wav (https://freesound.org/people/sharesynth/sounds/344500/?fbclid=IwAR1PQqKrp9vN1jzlm3BgP0HFolNKTbgW36I4mK42_snMWKfCEGSSb8uUV4E) CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+18. Crouch00.wav (https://freesound.org/people/punpcklbw/sounds/195004/) Attribution 3.0 Unported
+19. Queen Elizabeth II in March 2015 (https://commons.wikimedia.org/wiki/File:Queen_Elizabeth_II_in_March_2015.jpg) Contains public sector information licensed under the Open Government Licence v3.0
+20. Source Sans Pro (https://fonts.google.com/specimen/Source+Sans+Pro?preview.text=W%2FUP%20-%3E%20Jump&preview.text_type=custom&selection.family=Source+Sans+Pro&sidebar.open=true#licens) SIL Open Font License (OFL)
+21. One Slot Font (https://www.1001freefonts.com/one-slot.font) Freeware
+22. BlackChancery Font (https://www.1001fonts.com/blackchancery-font.html) Public domain
+23. Stardust (Ziggy is coming) (http://dig.ccmixter.org/files/Karstenholymoly/62493) Attribution-NonCommercial 3.0 Unported (CC BY-NC 3.0)
+24. Empty House (http://dig.ccmixter.org/files/mana_junkie/62219) Attribution-NonCommercial 3.0 Unported (CC BY-NC 3.0)
+25. Latinium (http://dig.ccmixter.org/files/Javolenus/62650) Attribution-NonCommercial 3.0 Unported (CC BY-NC 3.0)
+26. The Speck-tacular Flight of the Firefly (http://dig.ccmixter.org/files/djlang59/62229) Attribution-NonCommercial 3.0 Unported (CC BY-NC 3.0)
+27. Le Graoully passe Ã  la toussaint (http://dig.ccmixter.org/files/Bluemillenium/62430) Attribution-NonCommercial 3.0 Unported (CC BY-NC 3.0)
+
+
+
+
+	This project incorporates components from the files listed above. The copyright under which we are using them are noted below.
+
+
+CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+https://creativecommons.org/publicdomain/zero/1.0/legalcode
+Statement of Purpose
+The laws of most jurisdictions throughout the world automatically confer exclusive Copyright and Related Rights (defined below) upon the creator and subsequent owner(s) (each and all, an "owner") of an original work of authorship and/or a database (each, a "Work").
+
+
+Certain owners wish to permanently relinquish those rights to a Work for the purpose of contributing to a commons of creative, cultural and scientific works ("Commons") that the public can reliably and without fear of later claims of infringement build upon, modify, incorporate in other works, reuse and redistribute as freely as possible in any form whatsoever and for any purposes, including without limitation commercial purposes. These owners may contribute to the Commons to promote the ideal of a free culture and the further production of creative, cultural and scientific works, or to gain reputation or greater distribution for their Work in part through the use and efforts of others.
+
+
+For these and/or other purposes and motivations, and without any expectation of additional consideration or compensation, the person associating CC0 with a Work (the "Affirmer"), to the extent that he or she is an owner of Copyright and Related Rights in the Work, voluntarily elects to apply CC0 to the Work and publicly distribute the Work under its terms, with knowledge of his or her Copyright and Related Rights in the Work and the meaning and intended legal effect of CC0 on those rights.
+
+
+1. Copyright and Related Rights. A Work made available under CC0 may be protected by copyright and related or neighboring rights ("Copyright and Related Rights"). Copyright and Related Rights include, but are not limited to, the following:
+
+
+    1.the right to reproduce, adapt, distribute, perform, display, communicate, and translate a Work;
+    2. moral rights retained by the original author(s) and/or performer(s);
+    3. publicity and privacy rights pertaining to a person's image or likeness depicted in a Work;
+    4. rights protecting against unfair competition in regards to a Work, subject to the limitations in paragraph 4(a), below;
+    5. rights protecting the extraction, dissemination, use and reuse of data in a Work;
+    6. database rights (such as those arising under Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, and under any national implementation thereof, including any amended or successor version of such directive); and
+    7. other similar, equivalent or corresponding rights throughout the world based on applicable law or treaty, and any national implementations thereof.
+2.  Waiver. To the greatest extent permitted by, but not in contravention of, applicable law, Affirmer hereby overtly, fully, permanently, irrevocably and unconditionally waives, abandons, and surrenders all of Affirmer's Copyright and Related Rights and associated claims and causes of action, whether now known or unknown (including existing as well as future claims and causes of action), in the Work (i) in all territories worldwide, (ii) for the maximum duration provided by applicable law or treaty (including future time extensions), (iii) in any current or future medium and for any number of copies, and (iv) for any purpose whatsoever, including without limitation commercial, advertising or promotional purposes (the "Waiver"). Affirmer makes the Waiver for the benefit of each member of the public at large and to the detriment of Affirmer's heirs and successors, fully intending that such Waiver shall not be subject to revocation, rescission, cancellation, termination, or any other legal or equitable action to disrupt the quiet enjoyment of the Work by the public as contemplated by Affirmer's express Statement of Purpose.
+
+
+3. Public License Fallback. Should any part of the Waiver for any reason be judged legally invalid or ineffective under applicable law, then the Waiver shall be preserved to the maximum extent permitted taking into account Affirmer's express Statement of Purpose. In addition, to the extent the Waiver is so judged Affirmer hereby grants to each affected person a royalty-free, non transferable, non sublicensable, non exclusive, irrevocable and unconditional license to exercise Affirmer's Copyright and Related Rights in the Work (i) in all territories worldwide, (ii) for the maximum duration provided by applicable law or treaty (including future time extensions), (iii) in any current or future medium and for any number of copies, and (iv) for any purpose whatsoever, including without limitation commercial, advertising or promotional purposes (the "License"). The License shall be deemed effective as of the date CC0 was applied by Affirmer to the Work. Should any part of the License for any reason be judged legally invalid or ineffective under applicable law, such partial invalidity or ineffectiveness shall not invalidate the remainder of the License, and in such case Affirmer hereby affirms that he or she will not (i) exercise any of his or her remaining Copyright and Related Rights in the Work or (ii) assert any associated claims and causes of action with respect to the Work, in either case contrary to Affirmer's express Statement of Purpose.
+
+
+4. Limitations and Disclaimers.
+
+
+    1. No trademark or patent rights held by Affirmer are waived, abandoned, surrendered, licensed or otherwise affected by this document.
+    2. Affirmer offers the Work as-is and makes no representations or warranties of any kind concerning the Work, express, implied, statutory or otherwise, including without limitation warranties of title, merchantability, fitness for a particular purpose, non infringement, or the absence of latent or other defects, accuracy, or the present or absence of errors, whether or not discoverable, all to the greatest extent permissible under applicable law.
+    3. Affirmer disclaims responsibility for clearing rights of other persons that may apply to the Work or any use thereof, including without limitation any person's Copyright and Related Rights in the Work. Further, Affirmer disclaims responsibility for obtaining any necessary consents, permissions or other rights required for any use of the Work.
+    4. Affirmer understands and acknowledges that Creative Commons is not a party to this document and has no duty or obligation with respect to this CC0 or use of the Work.
+
+
+
+
+Attribution 3.0 Unported (CC BY 3.0)
+https://creativecommons.org/licenses/by/3.0/legalcode
+THE WORK (AS DEFINED BELOW) IS PROVIDED UNDER THE TERMS OF THIS CREATIVE COMMONS PUBLIC LICENSE ("CCPL" OR "LICENSE"). THE WORK IS PROTECTED BY COPYRIGHT AND/OR OTHER APPLICABLE LAW. ANY USE OF THE WORK OTHER THAN AS AUTHORIZED UNDER THIS LICENSE OR COPYRIGHT LAW IS PROHIBITED.
+BY EXERCISING ANY RIGHTS TO THE WORK PROVIDED HERE, YOU ACCEPT AND AGREE TO BE BOUND BY THE TERMS OF THIS LICENSE. TO THE EXTENT THIS LICENSE MAY BE CONSIDERED TO BE A CONTRACT, THE LICENSOR GRANTS YOU THE RIGHTS CONTAINED HERE IN CONSIDERATION OF YOUR ACCEPTANCE OF SUCH TERMS AND CONDITIONS.
+1. Definitions
+    1. "Adaptation" means a work based upon the Work, or upon the Work and other pre-existing works, such as a translation, adaptation, derivative work, arrangement of music or other alterations of a literary or artistic work, or phonogram or performance and includes cinematographic adaptations or any other form in which the Work may be recast, transformed, or adapted including in any form recognizably derived from the original, except that a work that constitutes a Collection will not be considered an Adaptation for the purpose of this License. For the avoidance of doubt, where the Work is a musical work, performance or phonogram, the synchronization of the Work in timed-relation with a moving image ("synching") will be considered an Adaptation for the purpose of this License.
+    2. "Collection" means a collection of literary or artistic works, such as encyclopedias and anthologies, or performances, phonograms or broadcasts, or other works or subject matter other than works listed in Section 1(f) below, which, by reason of the selection and arrangement of their contents, constitute intellectual creations, in which the Work is included in its entirety in unmodified form along with one or more other contributions, each constituting separate and independent works in themselves, which together are assembled into a collective whole. A work that constitutes a Collection will not be considered an Adaptation (as defined above) for the purposes of this License.
+    3. "Distribute" means to make available to the public the original and copies of the Work or Adaptation, as appropriate, through sale or other transfer of ownership.
+    4. "Licensor" means the individual, individuals, entity or entities that offer(s) the Work under the terms of this License.
+    5. "Original Author" means, in the case of a literary or artistic work, the individual, individuals, entity or entities who created the Work or if no individual or entity can be identified, the publisher; and in addition (i) in the case of a performance the actors, singers, musicians, dancers, and other persons who act, sing, deliver, declaim, play in, interpret or otherwise perform literary or artistic works or expressions of folklore; (ii) in the case of a phonogram the producer being the person or legal entity who first fixes the sounds of a performance or other sounds; and, (iii) in the case of broadcasts, the organization that transmits the broadcast.
+    6. "Work" means the literary and/or artistic work offered under the terms of this License including without limitation any production in the literary, scientific and artistic domain, whatever may be the mode or form of its expression including digital form, such as a book, pamphlet and other writing; a lecture, address, sermon or other work of the same nature; a dramatic or dramatico-musical work; a choreographic work or entertainment in dumb show; a musical composition with or without words; a cinematographic work to which are assimilated works expressed by a process analogous to cinematography; a work of drawing, painting, architecture, sculpture, engraving or lithography; a photographic work to which are assimilated works expressed by a process analogous to photography; a work of applied art; an illustration, map, plan, sketch or three-dimensional work relative to geography, topography, architecture or science; a performance; a broadcast; a phonogram; a compilation of data to the extent it is protected as a copyrightable work; or a work performed by a variety or circus performer to the extent it is not otherwise considered a literary or artistic work.
+    7. "You" means an individual or entity exercising rights under this License who has not previously violated the terms of this License with respect to the Work, or who has received express permission from the Licensor to exercise rights under this License despite a previous violation.
+    8. "Publicly Perform" means to perform public recitations of the Work and to communicate to the public those public recitations, by any means or process, including by wire or wireless means or public digital performances; to make available to the public Works in such a way that members of the public may access these Works from a place and at a place individually chosen by them; to perform the Work to the public by any means or process and the communication to the public of the performances of the Work, including by public digital performance; to broadcast and rebroadcast the Work by any means including signs, sounds or images.
+    9. "Reproduce" means to make copies of the Work by any means including without limitation by sound or visual recordings and the right of fixation and reproducing fixations of the Work, including storage of a protected performance or phonogram in digital form or other electronic medium.
+2. Fair Dealing Rights. Nothing in this License is intended to reduce, limit, or restrict any uses free from copyright or rights arising from limitations or exceptions that are provided for in connection with the copyright protection under copyright law or other applicable laws.
+3. License Grant. Subject to the terms and conditions of this License, Licensor hereby grants You a worldwide, royalty-free, non-exclusive, perpetual (for the duration of the applicable copyright) license to exercise the rights in the Work as stated below:
+    1. to Reproduce the Work, to incorporate the Work into one or more Collections, and to Reproduce the Work as incorporated in the Collections;
+    2. to create and Reproduce Adaptations provided that any such Adaptation, including any translation in any medium, takes reasonable steps to clearly label, demarcate or otherwise identify that changes were made to the original Work. For example, a translation could be marked "The original work was translated from English to Spanish," or a modification could indicate "The original work has been modified.";
+    3. to Distribute and Publicly Perform the Work including as incorporated in Collections; and,
+    4. to Distribute and Publicly Perform Adaptations.
+    5. For the avoidance of doubt:
+        1. Non-waivable Compulsory License Schemes. In those jurisdictions in which the right to collect royalties through any statutory or compulsory licensing scheme cannot be waived, the Licensor reserves the exclusive right to collect such royalties for any exercise by You of the rights granted under this License;
+        2. Waivable Compulsory License Schemes. In those jurisdictions in which the right to collect royalties through any statutory or compulsory licensing scheme can be waived, the Licensor waives the exclusive right to collect such royalties for any exercise by You of the rights granted under this License; and,
+        3. Voluntary License Schemes. The Licensor waives the right to collect royalties, whether individually or, in the event that the Licensor is a member of a collecting society that administers voluntary licensing schemes, via that society, from any exercise by You of the rights granted under this License.
+The above rights may be exercised in all media and formats whether now known or hereafter devised. The above rights include the right to make such modifications as are technically necessary to exercise the rights in other media and formats. Subject to Section 8(f), all rights not expressly granted by Licensor are hereby reserved.
+4. Restrictions. The license granted in Section 3 above is expressly made subject to and limited by the following restrictions:
+1. You may Distribute or Publicly Perform the Work only under the terms of this License. You must include a copy of, or the Uniform Resource Identifier (URI) for, this License with every copy of the Work You Distribute or Publicly Perform. You may not offer or impose any terms on the Work that restrict the terms of this License or the ability of the recipient of the Work to exercise the rights granted to that recipient under the terms of the License. You may not sublicense the Work. You must keep intact all notices that refer to this License and to the disclaimer of warranties with every copy of the Work You Distribute or Publicly Perform. When You Distribute or Publicly Perform the Work, You may not impose any effective technological measures on the Work that restrict the ability of a recipient of the Work from You to exercise the rights granted to that recipient under the terms of the License. This Section 4(a) applies to the Work as incorporated in a Collection, but this does not require the Collection apart from the Work itself to be made subject to the terms of this License. If You create a Collection, upon notice from any Licensor You must, to the extent practicable, remove from the Collection any credit as required by Section 4(b), as requested. If You create an Adaptation, upon notice from any Licensor You must, to the extent practicable, remove from the Adaptation any credit as required by Section 4(b), as requested.
+    2. If You Distribute, or Publicly Perform the Work or any Adaptations or Collections, You must, unless a request has been made pursuant to Section 4(a), keep intact all copyright notices for the Work and provide, reasonable to the medium or means You are utilizing: (i) the name of the Original Author (or pseudonym, if applicable) if supplied, and/or if the Original Author and/or Licensor designate another party or parties (e.g., a sponsor institute, publishing entity, journal) for attribution ("Attribution Parties") in Licensor's copyright notice, terms of service or by other reasonable means, the name of such party or parties; (ii) the title of the Work if supplied; (iii) to the extent reasonably practicable, the URI, if any, that Licensor specifies to be associated with the Work, unless such URI does not refer to the copyright notice or licensing information for the Work; and (iv) , consistent with Section 3(b), in the case of an Adaptation, a credit identifying the use of the Work in the Adaptation (e.g., "French translation of the Work by Original Author," or "Screenplay based on original Work by Original Author"). The credit required by this Section 4 (b) may be implemented in any reasonable manner; provided, however, that in the case of a Adaptation or Collection, at a minimum such credit will appear, if a credit for all contributing authors of the Adaptation or Collection appears, then as part of these credits and in a manner at least as prominent as the credits for the other contributing authors. For the avoidance of doubt, You may only use the credit required by this Section for the purpose of attribution in the manner set out above and, by exercising Your rights under this License, You may not implicitly or explicitly assert or imply any connection with, sponsorship or endorsement by the Original Author, Licensor and/or Attribution Parties, as appropriate, of You or Your use of the Work, without the separate, express prior written permission of the Original Author, Licensor and/or Attribution Parties.
+    3. Except as otherwise agreed in writing by the Licensor or as may be otherwise permitted by applicable law, if You Reproduce, Distribute or Publicly Perform the Work either by itself or as part of any Adaptations or Collections, You must not distort, mutilate, modify or take other derogatory action in relation to the Work which would be prejudicial to the Original Author's honor or reputation. Licensor agrees that in those jurisdictions (e.g. Japan), in which any exercise of the right granted in Section 3(b) of this License (the right to make Adaptations) would be deemed to be a distortion, mutilation, modification or other derogatory action prejudicial to the Original Author's honor and reputation, the Licensor will waive or not assert, as appropriate, this Section, to the fullest extent permitted by the applicable national law, to enable You to reasonably exercise Your right under Section 3(b) of this License (right to make Adaptations) but not otherwise.
+5. Representations, Warranties and Disclaimer
+UNLESS OTHERWISE MUTUALLY AGREED TO BY THE PARTIES IN WRITING, LICENSOR OFFERS THE WORK AS-IS AND MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND CONCERNING THE WORK, EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, INCLUDING, WITHOUT LIMITATION, WARRANTIES OF TITLE, MERCHANTIBILITY, FITNESS FOR A PARTICULAR PURPOSE, NONINFRINGEMENT, OR THE ABSENCE OF LATENT OR OTHER DEFECTS, ACCURACY, OR THE PRESENCE OF ABSENCE OF ERRORS, WHETHER OR NOT DISCOVERABLE. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF IMPLIED WARRANTIES, SO SUCH EXCLUSION MAY NOT APPLY TO YOU.
+6. Limitation on Liability. EXCEPT TO THE EXTENT REQUIRED BY APPLICABLE LAW, IN NO EVENT WILL LICENSOR BE LIABLE TO YOU ON ANY LEGAL THEORY FOR ANY SPECIAL, INCIDENTAL, CONSEQUENTIAL, PUNITIVE OR EXEMPLARY DAMAGES ARISING OUT OF THIS LICENSE OR THE USE OF THE WORK, EVEN IF LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+7. Termination
+    1. This License and the rights granted hereunder will terminate automatically upon any breach by You of the terms of this License. Individuals or entities who have received Adaptations or Collections from You under this License, however, will not have their licenses terminated provided such individuals or entities remain in full compliance with those licenses. Sections 1, 2, 5, 6, 7, and 8 will survive any termination of this License.
+    2. Subject to the above terms and conditions, the license granted here is perpetual (for the duration of the applicable copyright in the Work). Notwithstanding the above, Licensor reserves the right to release the Work under different license terms or to stop distributing the Work at any time; provided, however that any such election will not serve to withdraw this License (or any other license that has been, or is required to be, granted under the terms of this License), and this License will continue in full force and effect unless terminated as stated above.
+8. Miscellaneous
+    1. Each time You Distribute or Publicly Perform the Work or a Collection, the Licensor offers to the recipient a license to the Work on the same terms and conditions as the license granted to You under this License.
+    2. Each time You Distribute or Publicly Perform an Adaptation, Licensor offers to the recipient a license to the original Work on the same terms and conditions as the license granted to You under this License.
+    3. If any provision of this License is invalid or unenforceable under applicable law, it shall not affect the validity or enforceability of the remainder of the terms of this License, and without further action by the parties to this agreement, such provision shall be reformed to the minimum extent necessary to make such provision valid and enforceable.
+    4. No term or provision of this License shall be deemed waived and no breach consented to unless such waiver or consent shall be in writing and signed by the party to be charged with such waiver or consent.
+    5. This License constitutes the entire agreement between the parties with respect to the Work licensed here. There are no understandings, agreements or representations with respect to the Work not specified here. Licensor shall not be bound by any additional provisions that may appear in any communication from You. This License may not be modified without the mutual written agreement of the Licensor and You.
+    6. The rights granted under, and the subject matter referenced, in this License were drafted utilizing the terminology of the Berne Convention for the Protection of Literary and Artistic Works (as amended on September 28, 1979), the Rome Convention of 1961, the WIPO Copyright Treaty of 1996, the WIPO Performances and Phonograms Treaty of 1996 and the Universal Copyright Convention (as revised on July 24, 1971). These rights and subject matter take effect in the relevant jurisdiction in which the License terms are sought to be enforced according to the corresponding provisions of the implementation of those treaty provisions in the applicable national law. If the standard suite of rights granted under applicable copyright law includes additional rights not granted under this License, such additional rights are deemed to be included in the License; this License is not intended to restrict the license of any rights under applicable law.
+
+
+Contains public sector information licensed under the Open Government Licence v3.0 (15)
+http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+You are encouraged to use and re-use the Information that is available under this licence freely and flexibly, with only a few conditions.
+
+
+Using Information under this licence
+Use of copyright and database right material expressly made available under this licence (the 'Information') indicates your acceptance of the terms and conditions below.
+
+
+The Licensor grants you a worldwide, royalty-free, perpetual, non-exclusive licence to use the Information subject to the conditions below.
+
+
+This licence does not affect your freedom under fair dealing or fair use or any other copyright or database right exceptions and limitations.
+
+
+You are free to:
+    copy, publish, distribute and transmit the Information;
+    adapt the Information;
+    exploit the Information commercially and non-commercially for example, by combining it with other Information, or by including it in your own product or application.
+You must (where you do any of the above):
+    acknowledge the source of the Information in your product or application by including or linking to any attribution statement specified by the Information Provider(s) and, where possible, provide a link to this licence;
+If the Information Provider does not provide a specific attribution statement, you must use the following:
+
+
+ Contains public sector information licensed under the Open Government Licence v3.0.
+
+
+If you are using Information from several Information Providers and listing multiple attributions is not practical in your product or application, you may include a URI or hyperlink to a resource that contains the required attribution statements.
+
+
+These are important conditions of this licence and if you fail to comply with them the rights granted to you under this licence, or any similar licence granted by the Licensor, will end automatically.
+
+
+ Exemptions
+This licence does not cover:
+
+
+    personal data in the Information;
+    Information that has not been accessed by way of publication or disclosure under information access legislation (including the Freedom of Information Acts for the UK and Scotland) by or with the consent of the Information Provider;
+    departmental or public sector organisation logos, crests and the Royal Arms except where they form an integral part of a document or dataset;
+    military insignia;
+    third party rights the Information Provider is not authorised to license;
+    other intellectual property rights, including patents, trade marks, and design rights; and
+    identity documents such as the British Passport
+Non-endorsement
+This licence does not grant you any right to use the Information in a way that suggests any official status or that the Information Provider and/or Licensor endorse you or your use of the Information.
+
+
+No warranty
+The Information is licensed 'as is' and the Information Provider and/or Licensor excludes all representations, warranties, obligations and liabilities in relation to the Information to the maximum extent permitted by law.
+
+
+The Information Provider and/or Licensor are not liable for any errors or omissions in the Information and shall not be liable for any loss, injury or damage of any kind caused by its use. The Information Provider does not guarantee the continued supply of the Information.
+
+
+Governing Law
+This licence is governed by the laws of the jurisdiction in which the Information Provider has its principal place of business, unless otherwise specified by the Information Provider.
+
+
+Definitions
+In this licence, the terms below have the following meanings:
+
+
+'Information' means information protected by copyright or by database right (for example, literary and artistic works, content, data and source code) offered for use under the terms of this licence.
+
+
+'Information Provider' means the person or organisation providing the Information under this licence.
+
+
+'Licensor' means any Information Provider which has the authority to offer Information under the terms of this licence or the Keeper of Public Records, who has the authority to offer Information subject to Crown copyright and Crown database rights and Information subject to copyright and database right that has been assigned to or acquired by the Crown, under the terms of this licence.
+
+
+'Use' means doing any act which is restricted by copyright or database right, whether in the original medium or in any other medium, and includes without limitation distributing, copying, adapting, modifying as may be technically necessary to use it in a different mode or format.
+
+
+'You', 'you' and 'your' means the natural or legal person, or body of persons corporate or incorporate, acquiring rights in the Information (whether the Information is obtained directly from the Licensor or otherwise) under this licence.
+
+
+About the Open Government Licence
+The National Archives has developed this licence as a tool to enable Information Providers in the public sector to license the use and re-use of their Information under a common open licence. The National Archives invites public sector bodies owning their own copyright and database rights to permit the use of their Information under this licence.
+
+
+The Keeper of the Public Records has authority to license Information subject to copyright and database right owned by the Crown. The extent of the offer to license this Information under the terms of this licence is set out in the UK Government Licensing Framework.
+
+
+This is version 3.0 of the Open Government Licence. The National Archives may, from time to time, issue new versions of the Open Government Licence. If you are already using Information under a previous version of the Open Government Licence, the terms of that licence will continue to apply.
+
+
+These terms are compatible with the Creative Commons Attribution License 4.0 and the Open Data Commons Attribution License, both of which license copyright and database rights. This means that when the Information is adapted and licensed under either of those licences, you automatically satisfy the conditions of the OGL when you comply with the other licence. The OGLv3.0 is Open Definition compliant.
+
+
+Further context, best practice and guidance can be found in the UK Government Licensing Framework section on The National Archives website.
+
+
+
+
+SIL Open Font License (OFL)
+https://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web
+Version 1.1 - 26 February 2007
+
+
+PREAMBLE
+The goals of the Open Font License (OFL) are to stimulate worldwide
+development of collaborative font projects, to support the font creation
+efforts of academic and linguistic communities, and to provide a free and
+open framework in which fonts may be shared and improved in partnership
+with others.
+
+
+The OFL allows the licensed fonts to be used, studied, modified and
+redistributed freely as long as they are not sold by themselves. The
+fonts, including any derivative works, can be bundled, embedded,
+redistributed and/or sold with any software provided that any reserved
+names are not used by derivative works. The fonts and derivatives,
+however, cannot be released under any other type of license. The
+requirement for fonts to remain under this license does not apply
+to any document created using the fonts or their derivatives.
+
+
+DEFINITIONS
+"Font Software" refers to the set of files released by the Copyright
+Holder(s) under this license and clearly marked as such. This may
+include source files, build scripts and documentation.
+
+
+"Reserved Font Name" refers to any names specified as such after the
+copyright statement(s).
+
+
+"Original Version" refers to the collection of Font Software components as
+distributed by the Copyright Holder(s).
+
+
+"Modified Version" refers to any derivative made by adding to, deleting,
+or substituting — in part or in whole — any of the components of the
+Original Version, by changing formats or by porting the Font Software to a
+new environment.
+
+
+"Author" refers to any designer, engineer, programmer, technical
+writer or other person who contributed to the Font Software.
+
+
+PERMISSION & CONDITIONS
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of the Font Software, to use, study, copy, merge, embed, modify,
+redistribute, and sell modified and unmodified copies of the Font
+Software, subject to the following conditions:
+
+
+1) Neither the Font Software nor any of its individual components,
+in Original or Modified Versions, may be sold by itself.
+
+
+2) Original or Modified Versions of the Font Software may be bundled,
+redistributed and/or sold with any software, provided that each copy
+contains the above copyright notice and this license. These can be
+included either as stand-alone text files, human-readable headers or
+in the appropriate machine-readable metadata fields within text or
+binary files as long as those fields can be easily viewed by the user.
+
+
+3) No Modified Version of the Font Software may use the Reserved Font
+Name(s) unless explicit written permission is granted by the corresponding
+Copyright Holder. This restriction only applies to the primary font name as
+presented to the users.
+
+
+4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font
+Software shall not be used to promote, endorse or advertise any
+Modified Version, except to acknowledge the contribution(s) of the
+Copyright Holder(s) and the Author(s) or with their explicit written
+permission.
+
+
+5) The Font Software, modified or unmodified, in part or in whole,
+must be distributed entirely under this license, and must not be
+distributed under any other license. The requirement for fonts to
+remain under this license does not apply to any document created
+using the Font Software.
+
+
+TERMINATION
+This license becomes null and void if any of the above conditions are
+not met.
+
+
+DISCLAIMER
+THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT
+OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL
+DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
+OTHER DEALINGS IN THE FONT SOFTWARE.
+
+
+Freeware
+https://www.1001freefonts.com/view-file/12429/bGVnYWxfb3MudHh0/legal-os.txt
+The font included in this zip file:
+
+
+OneSlot.ttf (OneSlot)
+
+
+is freeware, and can be used for any sort of work, from websites to term
+papers to ad campaigns. If you use it in anything I'm likely to see and
+recognize, I'd appreciate hearing about it.
+
+
+This zip file can also be distributed freely, so long as no files are
+removed from it, and so long as the files are not altered.
+
+
+Otherwise, you can modify the font however you like, but you must
+completely rename the new font, as stated in Part 4 of the DSL below.
+You can distribute your creation, but you also have to link back to my
+freeware font, as stated in Part 3 below.
+
+
+My name is Darren Rigby, and I created OneSlot. I've copylefted it.
+You can contact me at dart@puzzlers.org.
+
+
+USAGE
+-----
+
+
+To get an ordinary letter in Quicktype, type that letter in caps. For many
+other ligated pairs (and even triples) of letters, type a lower-case
+letter, or a number, or some punctuation.
+
+
+FULL LICENCE
+------------
+DESIGN SCIENCE LICENSE
+
+
+TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+
+
+Copyright � 1999-2001 Michael Stutz
+Verbatim copying of this document is permitted, in any medium.
+
+
+0. PREAMBLE.
+
+
+Copyright law gives certain exclusive rights to the author of a work,
+including the rights to copy, modify and distribute the work (the
+"reproductive," "adaptative," and "distribution" rights).
+
+
+The idea of "copyleft" is to willfully revoke the exclusivity of those
+rights under certain terms and conditions, so that anyone can copy and
+distribute the work or properly attributed derivative works, while all
+copies remain under the same terms and conditions as the original.
+
+
+The intent of this license is to be a general "copyleft" that can be
+applied to any kind of work that has protection under copyright. This
+license states those certain conditions under which a work published
+under its terms may be copied, distributed, and modified.
+
+
+Whereas "design science" is a strategy for the development of
+artifacts as a way to reform the environment (not people) and
+subsequently improve the universal standard of living, this Design
+Science License was written and deployed as a strategy for promoting
+the progress of science and art through reform of the environment.
+
+
+1. DEFINITIONS.
+
+
+"License" shall mean this Design Science License. The License applies
+to any work which contains a notice placed by the work's copyright
+holder stating that it is published under the terms of this Design
+Science License.
+
+
+"Work" shall mean such an aforementioned work. The License also
+applies to the output of the Work, only if said output constitutes a
+"derivative work" of the licensed Work as defined by copyright law.
+
+
+"Object Form" shall mean an executable or performable form of the
+Work, being an embodiment of the Work in some tangible medium.
+
+
+"Source Data" shall mean the origin of the Object Form, being the
+entire, machine-readable, preferred form of the Work for copying and
+for human modification (usually the language, encoding or format in
+which composed or recorded by the Author); plus any accompanying
+files, scripts or other data necessary for installation, configuration
+or compilation of the Work.
+
+
+(Examples of "Source Data" include, but are not limited to, the
+following: if the Work is an image file composed and edited in PNG
+format, then the original PNG source file is the Source Data; if the
+Work is an MPEG 1.0 layer 3 digital audio recording made from a WAV
+format audio file recording of an analog source, then the original WAV
+file is the Source Data; if the Work was composed as an unformatted
+plaintext file, then that file is the Source Data; if the Work was
+composed in LaTeX, the LaTeX file(s) and any image files and/or custom
+macros necessary for compilation constitute the Source Data.)
+
+
+"Author" shall mean the copyright holder(s) of the Work.
+
+
+The individual licensees are referred to as "you."
+
+
+2. RIGHTS AND COPYRIGHT.
+
+
+The Work is copyrighted by the Author. All rights to the Work are
+reserved by the Author, except as specifically described below. This
+License describes the terms and conditions under which the Author
+permits you to copy, distribute and modify copies of the Work.
+
+
+In addition, you may refer to the Work, talk about it, and (as
+dictated by "fair use") quote from it, just as you would any
+copyrighted material under copyright law.
+
+
+Your right to operate, perform, read or otherwise interpret and/or
+execute the Work is unrestricted; however, you do so at your own risk,
+because the Work comes WITHOUT ANY WARRANTY -- see Section 7 ("NO
+WARRANTY") below.
+
+
+3. COPYING AND DISTRIBUTION.
+
+
+Permission is granted to distribute, publish or otherwise present
+verbatim copies of the entire Source Data of the Work, in any medium,
+provided that full copyright notice and disclaimer of warranty, where
+applicable, is conspicuously published on all copies, and a copy of
+this License is distributed along with the Work.
+
+
+Permission is granted to distribute, publish or otherwise present
+copies of the Object Form of the Work, in any medium, under the terms
+for distribution of Source Data above and also provided that one of
+the following additional conditions are met:
+
+
+(a) The Source Data is included in the same distribution, distributed
+under the terms of this License; or
+
+
+(b) A written offer is included with the distribution, valid for at
+least three years or for as long as the distribution is in print
+(whichever is longer), with a publicly-accessible address (such as a
+URL on the Internet) where, for a charge not greater than
+transportation and media costs, anyone may receive a copy of the
+Source Data of the Work distributed according to the section above; or
+
+
+(c) A third party's written offer for obtaining the Source Data at no
+cost, as described in paragraph (b) above, is included with the
+distribution. This option is valid only if you are a non-commercial
+party, and only if you received the Object Form of the Work along with
+such an offer.
+
+
+You may copy and distribute the Work either gratis or for a fee, and
+if desired, you may offer warranty protection for the Work.
+
+
+The aggregation of the Work with other works that are not based on the
+Work -- such as but not limited to inclusion in a publication,
+broadcast, compilation, or other media -- does not bring the other
+works in the scope of the License; nor does such aggregation void the
+terms of the License for the Work.
+
+
+4. MODIFICATION.
+
+
+Permission is granted to modify or sample from a copy of the Work,
+producing a derivative work, and to distribute the derivative work
+under the terms described in the section for distribution above,
+provided that the following terms are met:
+
+
+(a) The new, derivative work is published under the terms of this
+License.
+
+
+(b) The derivative work is given a new name, so that its name or title
+cannot be confused with the Work, or with a version of the Work, in
+any way.
+
+
+(c) Appropriate authorship credit is given: for the differences
+between the Work and the new derivative work, authorship is attributed
+to you, while the material sampled or used from the Work remains
+attributed to the original Author; appropriate notice must be included
+with the new work indicating the nature and the dates of any
+modifications of the Work made by you.
+
+
+5. NO RESTRICTIONS.
+
+
+You may not impose any further restrictions on the Work or any of its
+derivative works beyond those restrictions described in this License.
+
+
+6. ACCEPTANCE.
+
+
+Copying, distributing or modifying the Work (including but not limited
+to sampling from the Work in a new work) indicates acceptance of these
+terms. If you do not follow the terms of this License, any rights
+granted to you by the License are null and void. The copying,
+distribution or modification of the Work outside of the terms
+described in this License is expressly prohibited by law.
+
+
+If for any reason, conditions are imposed on you that forbid you to
+fulfill the conditions of this License, you may not copy, distribute
+or modify the Work at all.
+
+
+If any part of this License is found to be in conflict with the law,
+that part shall be interpreted in its broadest meaning consistent with
+the law, and no other parts of the License shall be affected.
+
+
+7. NO WARRANTY.
+
+
+THE WORK IS PROVIDED "AS IS," AND COMES WITH ABSOLUTELY NO WARRANTY,
+EXPRESS OR IMPLIED, TO THE EXTENT PERMITTED BY APPLICABLE LAW,
+INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY
+OR FITNESS FOR A PARTICULAR PURPOSE.
+
+
+8. DISCLAIMER OF LIABILITY.
+
+
+IN NO EVENT SHALL THE AUTHOR OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT,
+INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
+HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT,
+STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING
+IN ANY WAY OUT OF THE USE OF THIS WORK, EVEN IF ADVISED OF THE
+POSSIBILITY OF SUCH DAMAGE.
+
+
+END OF TERMS AND CONDITIONS
+
+
+Public Domain
+https://www.1001fonts.com/licenses/public-domain.html
+1. Preamble
+the given typeface is in the public domain, because the intellectual property rights have been forfeited by the respective author.
+2. Copyright
+the given typeface is free of known copyright restrictions.
+3. Usage
+the given typeface may be downloaded and used free of charge for any use, including both personal and commercial use.
+Personal use refers to all usage that does not generate financial income in a business manner, for instance:
+- personal scrapbooking for yourself
+- recreational websites and blogs for friends and family
+- prints such as flyers, posters, t-shirts for churches, charities, and non-profit organizations
+Commercial use refers to usage in a business environment, including:
+- business cards, logos, advertising, websites for companies
+- t-shirts, books, apparel that will be sold for money
+- flyers, posters for events that charge admission
+- freelance graphic design work
+- anything that will generate direct or indirect income
+4. Modification
+the given typeface may be modified freely.
+5. Distribution
+the given typeface may be distributed freely.
+6. Disclaimer
+the given typeface is offered 'as is' without any warranty. 1001fonts.com shall not be liable for any damage derived from using this font.
+
+
+Attribution-NonCommercial 3.0 Unported (CC BY-NC 3.0)
+https://creativecommons.org/licenses/by-nc/3.0/legalcode
+THE WORK (AS DEFINED BELOW) IS PROVIDED UNDER THE TERMS OF THIS CREATIVE COMMONS PUBLIC LICENSE ("CCPL" OR "LICENSE"). THE WORK IS PROTECTED BY COPYRIGHT AND/OR OTHER APPLICABLE LAW. ANY USE OF THE WORK OTHER THAN AS AUTHORIZED UNDER THIS LICENSE OR COPYRIGHT LAW IS PROHIBITED.
+BY EXERCISING ANY RIGHTS TO THE WORK PROVIDED HERE, YOU ACCEPT AND AGREE TO BE BOUND BY THE TERMS OF THIS LICENSE. TO THE EXTENT THIS LICENSE MAY BE CONSIDERED TO BE A CONTRACT, THE LICENSOR GRANTS YOU THE RIGHTS CONTAINED HERE IN CONSIDERATION OF YOUR ACCEPTANCE OF SUCH TERMS AND CONDITIONS.
+1. Definitions
+    1. "Adaptation" means a work based upon the Work, or upon the Work and other pre-existing works, such as a translation, adaptation, derivative work, arrangement of music or other alterations of a literary or artistic work, or phonogram or performance and includes cinematographic adaptations or any other form in which the Work may be recast, transformed, or adapted including in any form recognizably derived from the original, except that a work that constitutes a Collection will not be considered an Adaptation for the purpose of this License. For the avoidance of doubt, where the Work is a musical work, performance or phonogram, the synchronization of the Work in timed-relation with a moving image ("synching") will be considered an Adaptation for the purpose of this License.
+    2. "Collection" means a collection of literary or artistic works, such as encyclopedias and anthologies, or performances, phonograms or broadcasts, or other works or subject matter other than works listed in Section 1(f) below, which, by reason of the selection and arrangement of their contents, constitute intellectual creations, in which the Work is included in its entirety in unmodified form along with one or more other contributions, each constituting separate and independent works in themselves, which together are assembled into a collective whole. A work that constitutes a Collection will not be considered an Adaptation (as defined above) for the purposes of this License.
+    3. "Distribute" means to make available to the public the original and copies of the Work or Adaptation, as appropriate, through sale or other transfer of ownership.
+    4. "Licensor" means the individual, individuals, entity or entities that offer(s) the Work under the terms of this License.
+    5. "Original Author" means, in the case of a literary or artistic work, the individual, individuals, entity or entities who created the Work or if no individual or entity can be identified, the publisher; and in addition (i) in the case of a performance the actors, singers, musicians, dancers, and other persons who act, sing, deliver, declaim, play in, interpret or otherwise perform literary or artistic works or expressions of folklore; (ii) in the case of a phonogram the producer being the person or legal entity who first fixes the sounds of a performance or other sounds; and, (iii) in the case of broadcasts, the organization that transmits the broadcast.
+    6. "Work" means the literary and/or artistic work offered under the terms of this License including without limitation any production in the literary, scientific and artistic domain, whatever may be the mode or form of its expression including digital form, such as a book, pamphlet and other writing; a lecture, address, sermon or other work of the same nature; a dramatic or dramatico-musical work; a choreographic work or entertainment in dumb show; a musical composition with or without words; a cinematographic work to which are assimilated works expressed by a process analogous to cinematography; a work of drawing, painting, architecture, sculpture, engraving or lithography; a photographic work to which are assimilated works expressed by a process analogous to photography; a work of applied art; an illustration, map, plan, sketch or three-dimensional work relative to geography, topography, architecture or science; a performance; a broadcast; a phonogram; a compilation of data to the extent it is protected as a copyrightable work; or a work performed by a variety or circus performer to the extent it is not otherwise considered a literary or artistic work.
+    7. "You" means an individual or entity exercising rights under this License who has not previously violated the terms of this License with respect to the Work, or who has received express permission from the Licensor to exercise rights under this License despite a previous violation.
+    8. "Publicly Perform" means to perform public recitations of the Work and to communicate to the public those public recitations, by any means or process, including by wire or wireless means or public digital performances; to make available to the public Works in such a way that members of the public may access these Works from a place and at a place individually chosen by them; to perform the Work to the public by any means or process and the communication to the public of the performances of the Work, including by public digital performance; to broadcast and rebroadcast the Work by any means including signs, sounds or images.
+    9. "Reproduce" means to make copies of the Work by any means including without limitation by sound or visual recordings and the right of fixation and reproducing fixations of the Work, including storage of a protected performance or phonogram in digital form or other electronic medium.
+2. Fair Dealing Rights. Nothing in this License is intended to reduce, limit, or restrict any uses free from copyright or rights arising from limitations or exceptions that are provided for in connection with the copyright protection under copyright law or other applicable laws.
+3. License Grant. Subject to the terms and conditions of this License, Licensor hereby grants You a worldwide, royalty-free, non-exclusive, perpetual (for the duration of the applicable copyright) license to exercise the rights in the Work as stated below:
+    1. to Reproduce the Work, to incorporate the Work into one or more Collections, and to Reproduce the Work as incorporated in the Collections;
+    2. to create and Reproduce Adaptations provided that any such Adaptation, including any translation in any medium, takes reasonable steps to clearly label, demarcate or otherwise identify that changes were made to the original Work. For example, a translation could be marked "The original work was translated from English to Spanish," or a modification could indicate "The original work has been modified.";
+    3. to Distribute and Publicly Perform the Work including as incorporated in Collections; and,
+    4. to Distribute and Publicly Perform Adaptations.
+The above rights may be exercised in all media and formats whether now known or hereafter devised. The above rights include the right to make such modifications as are technically necessary to exercise the rights in other media and formats. Subject to Section 8(f), all rights not expressly granted by Licensor are hereby reserved, including but not limited to the rights set forth in Section 4(d).
+4. Restrictions. The license granted in Section 3 above is expressly made subject to and limited by the following restrictions:
+    1. You may Distribute or Publicly Perform the Work only under the terms of this License. You must include a copy of, or the Uniform Resource Identifier (URI) for, this License with every copy of the Work You Distribute or Publicly Perform. You may not offer or impose any terms on the Work that restrict the terms of this License or the ability of the recipient of the Work to exercise the rights granted to that recipient under the terms of the License. You may not sublicense the Work. You must keep intact all notices that refer to this License and to the disclaimer of warranties with every copy of the Work You Distribute or Publicly Perform. When You Distribute or Publicly Perform the Work, You may not impose any effective technological measures on the Work that restrict the ability of a recipient of the Work from You to exercise the rights granted to that recipient under the terms of the License. This Section 4(a) applies to the Work as incorporated in a Collection, but this does not require the Collection apart from the Work itself to be made subject to the terms of this License. If You create a Collection, upon notice from any Licensor You must, to the extent practicable, remove from the Collection any credit as required by Section 4(c), as requested. If You create an Adaptation, upon notice from any Licensor You must, to the extent practicable, remove from the Adaptation any credit as required by Section 4(c), as requested.
+    2. You may not exercise any of the rights granted to You in Section 3 above in any manner that is primarily intended for or directed toward commercial advantage or private monetary compensation. The exchange of the Work for other copyrighted works by means of digital file-sharing or otherwise shall not be considered to be intended for or directed toward commercial advantage or private monetary compensation, provided there is no payment of any monetary compensation in connection with the exchange of copyrighted works.
+    3. If You Distribute, or Publicly Perform the Work or any Adaptations or Collections, You must, unless a request has been made pursuant to Section 4(a), keep intact all copyright notices for the Work and provide, reasonable to the medium or means You are utilizing: (i) the name of the Original Author (or pseudonym, if applicable) if supplied, and/or if the Original Author and/or Licensor designate another party or parties (e.g., a sponsor institute, publishing entity, journal) for attribution ("Attribution Parties") in Licensor's copyright notice, terms of service or by other reasonable means, the name of such party or parties; (ii) the title of the Work if supplied; (iii) to the extent reasonably practicable, the URI, if any, that Licensor specifies to be associated with the Work, unless such URI does not refer to the copyright notice or licensing information for the Work; and, (iv) consistent with Section 3(b), in the case of an Adaptation, a credit identifying the use of the Work in the Adaptation (e.g., "French translation of the Work by Original Author," or "Screenplay based on original Work by Original Author"). The credit required by this Section 4(c) may be implemented in any reasonable manner; provided, however, that in the case of a Adaptation or Collection, at a minimum such credit will appear, if a credit for all contributing authors of the Adaptation or Collection appears, then as part of these credits and in a manner at least as prominent as the credits for the other contributing authors. For the avoidance of doubt, You may only use the credit required by this Section for the purpose of attribution in the manner set out above and, by exercising Your rights under this License, You may not implicitly or explicitly assert or imply any connection with, sponsorship or endorsement by the Original Author, Licensor and/or Attribution Parties, as appropriate, of You or Your use of the Work, without the separate, express prior written permission of the Original Author, Licensor and/or Attribution Parties.
+    4. For the avoidance of doubt:
+        1. Non-waivable Compulsory License Schemes. In those jurisdictions in which the right to collect royalties through any statutory or compulsory licensing scheme cannot be waived, the Licensor reserves the exclusive right to collect such royalties for any exercise by You of the rights granted under this License;
+        2. Waivable Compulsory License Schemes. In those jurisdictions in which the right to collect royalties through any statutory or compulsory licensing scheme can be waived, the Licensor reserves the exclusive right to collect such royalties for any exercise by You of the rights granted under this License if Your exercise of such rights is for a purpose or use which is otherwise than noncommercial as permitted under Section 4(b) and otherwise waives the right to collect royalties through any statutory or compulsory licensing scheme; and,
+        3. Voluntary License Schemes. The Licensor reserves the right to collect royalties, whether individually or, in the event that the Licensor is a member of a collecting society that administers voluntary licensing schemes, via that society, from any exercise by You of the rights granted under this License that is for a purpose or use which is otherwise than noncommercial as permitted under Section 4(c).
+    5. Except as otherwise agreed in writing by the Licensor or as may be otherwise permitted by applicable law, if You Reproduce, Distribute or Publicly Perform the Work either by itself or as part of any Adaptations or Collections, You must not distort, mutilate, modify or take other derogatory action in relation to the Work which would be prejudicial to the Original Author's honor or reputation. Licensor agrees that in those jurisdictions (e.g. Japan), in which any exercise of the right granted in Section 3(b) of this License (the right to make Adaptations) would be deemed to be a distortion, mutilation, modification or other derogatory action prejudicial to the Original Author's honor and reputation, the Licensor will waive or not assert, as appropriate, this Section, to the fullest extent permitted by the applicable national law, to enable You to reasonably exercise Your right under Section 3(b) of this License (right to make Adaptations) but not otherwise.
+5. Representations, Warranties and Disclaimer
+UNLESS OTHERWISE MUTUALLY AGREED TO BY THE PARTIES IN WRITING, LICENSOR OFFERS THE WORK AS-IS AND MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND CONCERNING THE WORK, EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, INCLUDING, WITHOUT LIMITATION, WARRANTIES OF TITLE, MERCHANTIBILITY, FITNESS FOR A PARTICULAR PURPOSE, NONINFRINGEMENT, OR THE ABSENCE OF LATENT OR OTHER DEFECTS, ACCURACY, OR THE PRESENCE OF ABSENCE OF ERRORS, WHETHER OR NOT DISCOVERABLE. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF IMPLIED WARRANTIES, SO SUCH EXCLUSION MAY NOT APPLY TO YOU.
+6. Limitation on Liability. EXCEPT TO THE EXTENT REQUIRED BY APPLICABLE LAW, IN NO EVENT WILL LICENSOR BE LIABLE TO YOU ON ANY LEGAL THEORY FOR ANY SPECIAL, INCIDENTAL, CONSEQUENTIAL, PUNITIVE OR EXEMPLARY DAMAGES ARISING OUT OF THIS LICENSE OR THE USE OF THE WORK, EVEN IF LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+7. Termination
+    1. This License and the rights granted hereunder will terminate automatically upon any breach by You of the terms of this License. Individuals or entities who have received Adaptations or Collections from You under this License, however, will not have their licenses terminated provided such individuals or entities remain in full compliance with those licenses. Sections 1, 2, 5, 6, 7, and 8 will survive any termination of this License.
+    2. Subject to the above terms and conditions, the license granted here is perpetual (for the duration of the applicable copyright in the Work). Notwithstanding the above, Licensor reserves the right to release the Work under different license terms or to stop distributing the Work at any time; provided, however that any such election will not serve to withdraw this License (or any other license that has been, or is required to be, granted under the terms of this License), and this License will continue in full force and effect unless terminated as stated above.
+8. Miscellaneous
+    1. Each time You Distribute or Publicly Perform the Work or a Collection, the Licensor offers to the recipient a license to the Work on the same terms and conditions as the license granted to You under this License.
+    2. Each time You Distribute or Publicly Perform an Adaptation, Licensor offers to the recipient a license to the original Work on the same terms and conditions as the license granted to You under this License.
+    3. If any provision of this License is invalid or unenforceable under applicable law, it shall not affect the validity or enforceability of the remainder of the terms of this License, and without further action by the parties to this agreement, such provision shall be reformed to the minimum extent necessary to make such provision valid and enforceable.
+    4. No term or provision of this License shall be deemed waived and no breach consented to unless such waiver or consent shall be in writing and signed by the party to be charged with such waiver or consent.
+    5. This License constitutes the entire agreement between the parties with respect to the Work licensed here. There are no understandings, agreements or representations with respect to the Work not specified here. Licensor shall not be bound by any additional provisions that may appear in any communication from You. This License may not be modified without the mutual written agreement of the Licensor and You.
+    6. The rights granted under, and the subject matter referenced, in this License were drafted utilizing the terminology of the Berne Convention for the Protection of Literary and Artistic Works (as amended on September 28, 1979), the Rome Convention of 1961, the WIPO Copyright Treaty of 1996, the WIPO Performances and Phonograms Treaty of 1996 and the Universal Copyright Convention (as revised on July 24, 1971). These rights and subject matter take effect in the relevant jurisdiction in which the License terms are sought to be enforced according to the corresponding provisions of the implementation of those treaty provisions in the applicable national law. If the standard suite of rights granted under applicable copyright law includes additional rights not granted under this License, such additional rights are deemed to be included in the License; this License is not intended to restrict the license of any rights under applicable law.

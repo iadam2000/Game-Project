@@ -1,0 +1,74 @@
+THIS IS LEVEL 5 LOWER LAYER
+
+0, 0, 270, 10 : platform;
+260, 20, 30, 10 : platform;
+310, 40, 60, 10 : platform;
+390, 90, 50, 10 : platform;
+490, 30, 100, 10 : platform;
+650, 60, 50, 10 : platform;
+710, 60, 60, 10 : platform;
+750, 0, 250, 10 : platform;
+810, 60, 40, 10 : platform;
+870, 60, 20, 10 : platform;
+1050, 10, 100, 10 : platform;
+1700, 0, 220, 10 : platform;
+1900, 30, 70, 10 : platform;
+2000, 65, 35, 10 : platform;
+2065, 85, 35, 10 : platform;
+2130, 30, 50, 10 : platform;
+2350, 0, 350, 10 : platform;
+2710, 20, 35, 10 : platform;
+2750, 0, 300, 10 : platform;
+2980, 40, 70, 10 : platform;
+3065, 70, 35, 10 : platform;
+3110, 40, 70, 10 : platform;
+3185, 0, 475, 10 : platform;
+3660, 0, 10, 10 : platform;
+3680, 0, 20, 10 : platform;
+3700, 0, 300, 10 : platform;
+
+//100, 10, 10, 10 : obstacle;
+175, 10, 10, 10 : obstacle;
+193, 38, 20, 20 : obstacle; // play around with y position to make it difficult to pass without using slowdown
+//230, 10, 10, 10 : obstacle;
+270, 0, 500, 10 : obstacle; // until 750
+700, 60, 10, 10 : obstacle;
+770, 60, 25, 10 : obstacle;                                                                                                                                                                                                                                                                     
+850, 60, 20, 10 : obstacle;
+//890, 60, 30, 50 : obstacle;
+930, 10, 10, 10 : obstacle;
+1000, 0, 700, 10 : obstacle;
+1750, 10, 20, 10 : obstacle;
+1920, 0, 300, 10 : obstacle;
+2220, 0, 20, 10 : obstacle;
+2240, 0, 110, 10 : obstacle;
+2700, 0, 50, 10 : obstacle;
+2765, 50, 50, 10 : obstacle;
+2975, 10, 75, 10 : obstacle;
+3050, 100, 60, 60 : obstacle;
+3110, 0, 75, 10 : obstacle;
+//3245, 30, 15, 20 : obstacle;
+3260, 0, 40, 10 : obstacle;
+3490, 60, 10, 35 : obstacle;
+3650, 0, 10, 10 : obstacle;
+3670, 0, 10, 10 : obstacle;
+
+450, 105 : enemy;
+900, 30 : enemy;
+2825, 20 : enemy;
+3350, 20 : enemy;
+
+//650, 100 : movingEnemy;
+//790, 40 : movingEnemy;
+//3400, 40 : movingEnemy;
+
+120, 10 : doubleJump;
+330, 60 : doubleJump;
+410, 120 : doubleJump;
+730, 80 : doubleJump;
+2800, 10 : doubleJump;
+3000, 50 : doubleJump;
+3130, 60 : doubleJump;
+3450, 20 : doubleJump;
+
+3600, 20 : slowDown;

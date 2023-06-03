@@ -1,0 +1,44 @@
+THIS IS LEVEL FOUR LOWER LAYER (34 AND 36 UNITS JUMP)
+
+
+140, 0, 1500, 10 : obstacle;
+2050, 0, 70, 10 : obstacle;
+2140, 0, 20, 16 : obstacle;
+2200, 0, 300, 10 : obstacle;
+2250, 10, 50, 10 : obstacle;
+2330, 20, 50, 10 : obstacle;
+2380, 30, 50, 10 : obstacle;
+2430, 40, 50, 10 : obstacle;
+2480, 50, 50, 10 : obstacle;
+2700, 0, 100, 10 : obstacle;
+2800, 0, 50, 100 : obstacle;
+2850, 0, 450, 10 : obstacle;
+
+0, 0, 140, 10 : platform;
+1640, 0, 410, 10 : platform;
+2070, 20, 50, 10 : platform;
+2120, 0, 20, 10 : platform;
+2160, 0, 40, 10 : platform;
+2200, 10, 50, 10 : platform;
+2250, 20, 80, 10 : platform;
+2330, 30, 50, 10 : platform;
+2380, 40, 50, 10 : platform;
+2430, 50, 50, 10 : platform;
+2480, 60, 50, 10 : platform;
+2500, 0, 200, 10 : platform;
+2520, 10, 60, 10 : platform;
+2610, 30, 20, 10 : platform;
+2680, 30, 150, 10 : platform;
+2800, 0, 50, 10 : platform;
+2850, 30, 50, 10 : platform;
+3300, 0, 300, 10 : platform;
+
+
+1850, 15 : enemy;
+1950, 20 : enemy;
+2620, 25 : enemy;
+
+1900, 30 : movingEnemy;
+2550, 150 : movingEnemy;
+
+2080, 40 : slowDown;

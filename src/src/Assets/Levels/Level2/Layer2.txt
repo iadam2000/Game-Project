@@ -1,0 +1,47 @@
+//THIS IS LEVEL TWO MIDDLE LAYER
+
+
+
+// These are obstacles - x position, y position, width, height : type (obstacle/platform)
+
+
+200, 10, 15, 15 : obstacle; 
+360, 10, 50, 10 : obstacle;
+420, 10, 50, 10 : obstacle;
+500, 55, 50, 10 : obstacle;   
+570, 0, 530, 10 : obstacle;
+1100, 0, 1400, 10 : obstacle; //The player cannot pass this point (they are forced to switch to another layer) so this obstacle continues until the end of the level
+
+
+// These are platforms - x position, y position, width, height : type (obstacle/platform)
+0, 0, 570, 10 : platform; 
+300, 15, 50, 10 : platform;
+360, 25, 50, 10 : platform;
+420, 35, 50, 10 : platform;
+580, 10, 25, 10 : platform;
+615, 20, 30, 10 : platform;
+660, 30, 30, 10 : platform;
+700, 40, 30, 10 : platform;
+740, 50, 30, 10 : platform;
+780, 60, 30, 10 : platform;
+820, 50, 30, 10 : platform;
+860, 40, 30, 10 : platform;
+900, 30, 30, 10 : platform;
+940, 20, 30, 10 : platform;
+980, 10, 30, 10 : platform;
+1050, 10, 30, 10 : platform; //This platform is impossible to reach - player will have to change to different layer
+1390, 80, 80, 10 : platform;
+1390, 10, 90, 10 : platform;
+2500, 0, 300, 10 : platform;
+
+
+
+// These are enemies - x position, y position, width, height : type (enemy/movingEnemy)
+
+130, 20 : enemy;
+525, 55 : enemy;
+
+1400, 20 : checkpoint;
+
+2750, 20 : levelEnd;
+

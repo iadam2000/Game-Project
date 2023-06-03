@@ -1,0 +1,18 @@
+???: ---Hmmm? What's this that has run in off the streets? ---Albert dearest, alert the guards - one of the masses has made their way into the gardens again.
+Narrator: ---A young woman in a voluminous dress, who had turned away to call ---towards the castle that dominates the skyline behind her, turns back to you ---and gives you an impatient look.
+???: ---Well? For what trifle do you seek such an unorthodox meeting with Queen Victoria? ---Speak! I am magnanimous and may grant it before the guards lock you up for trespassing.
+Player: ---I... Your Majesty, I'm no... I mean, I'm looki- I seek an artefact of great import. ---Mayhap you have seen something like it?
+Narrator: ---You pull out the fragment of the device you found in London and show ---it to the Queen. The young woman frowns.
+Queen Victoria: ---An interesting trinket. You are fortunate, stranger, ---for I found such a thing but a few hours ago.
+Narrator: ---The Queen reaches down to a small, intricately sewn bag placed at her feet. ---She straightens a moment later with a small grey object in her hand. ---She shows it to you.
+Narrator: ---You notice another word engraved into its surface in a similar fashion to the engraving on the first fragment. ---It reads: "GONNA".
+Queen Victoria: ---I spotted this curious thing in one of the rose bushes as I wandered the garden. ---It piqued my interest, but not so much that I would be loath to part with it. Take it, stranger.
+Narrator: ---You bow low and take the fragment from the Queen. ---As you rise, you hear shouting and see several armed men rushing towards you, ---a man in an ornate suit at their head.
+Queen Victoria: ---Ah, Albert with the guards. Worry not, stranger, ---I expect you shall receive a short sentence—a few years at most.
+Narrator: ---You hastily stuff the fragment into your pocket alongside the others.
+Player: ---I'm afraid that won't be happening, your Majesty.
+Narrator: ---The Queen frowns as you reach back into the pocket containing the fragments. ---After a moment, you find the switch. ---As the world fades, the last thing you see is an array of surprised faces.
+~~~~~~~~~~
+Player: ---And where are we now?
+Narrator: ---You survey your surroundings. It looks sort of like an ordinary bit of countryside, ---wild and uncivilised. You spot a path worn from its surroundings by use.
+Player: ---Middle of nowhere by the looks of it. I guess I should just follow the path. ---And it seems there are those moving obstacle things again. Although... ---some of them don't look quite the same.

@@ -1,0 +1,65 @@
+THIS IS LEVEL FOUR UPPER LAYER - player jumps 34 units and 36 units after the checkpoint (17 and 18 with slowdown)
+
+140, 0, 660, 10 : obstacle;
+1000, 0, 100, 10 : obstacle;
+1120, 20, 5, 10 : obstacle;
+1200, 0, 50, 10 : obstacle;
+1200, 20, 50, 10 : obstacle;
+1275, 10, 50, 10 : obstacle;
+1325, 0, 20, 10 : obstacle;
+1400, 0, 400, 10 : obstacle;
+1430, 90, 50, 10 : obstacle;
+1480, 100, 50, 10 : obstacle;
+1530, 110, 50, 10 : obstacle;
+1580, 120, 50, 10 : obstacle;
+1630, 130, 50, 10 : obstacle;
+1680, 90, 50, 10 : obstacle;
+1800, 0, 900, 10 : obstacle;
+2850, 20, 10, 10 : obstacle;
+2800, 0, 500, 10 : obstacle;
+2930, 10, 10, 20 : obstacle;
+3180, 55, 10, 10 : obstacle;
+
+
+0, 0, 140, 10 : platform;
+800, 0, 200, 10 : platform;
+1020, 20, 50, 10 : platform;
+1080, 40, 15, 10 : platform;
+1100, 0, 100, 10 : platform;
+1200, 10, 50, 10 : platform;
+1200, 30, 50, 5 : platform;
+1250, 0, 75, 10 : platform;
+1270, 20, 50, 10 : platform;
+1345, 0, 55, 10 : platform;
+1410, 20, 50, 10 : platform;
+1460, 30, 50, 10 : platform;
+1510, 40, 50, 10 : platform;
+1560, 50, 50, 10 : platform;
+1610, 60, 50, 10 : platform;
+1670, 10, 150, 10 : platform;
+2700, 0, 100, 10 : platform;
+2820, 10, 20, 10 : platform;
+2870, 25, 20, 10 : platform;
+2910, 15, 200, 10 : platform;
+3130, 35, 50, 10 : platform;
+3200, 25, 100, 10 : platform;
+3300, 0, 300, 10 : platform;
+
+
+910, 20 : enemy;
+1810, 20 : enemy;
+1820, 30 : enemy;
+1810, 40 : enemy;
+1820, 50 : enemy;
+1820, 40 : enemy;
+
+
+960, 50 : movingEnemy;
+//1890, 30 : movingEnemy;
+//1850, 20 : movingEnemy;
+//1880, 50 : movingEnemy;
+//1860, 70 : movingEnemy;
+2750, 60 : movingEnemy;
+3250, 140 : movingEnemy;
+
+1030, 40 : slowDown;

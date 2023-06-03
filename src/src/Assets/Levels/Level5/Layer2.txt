@@ -1,0 +1,67 @@
+THIS IS LEVEL 5 MIDDLE LAYER
+
+0, 0, 500, 10 : platform;
+530, 0, 205, 10 : platform;
+790, 30, 100, 10 : platform;
+920, 10, 50, 10 : platform;
+1900, 0, 400, 10 : platform;
+2330, 30, 50, 10 : platform;
+2410, 60, 50, 10 : platform;
+2490, 20, 50, 10 : platform;
+2700, 0, 100, 10 : platform;
+2700, 60, 75, 10 : platform;
+2800, 100, 35, 10 : platform;
+2830, 0, 50, 10 : platform;
+2860, 130, 50, 10 : platform;
+3000, 50, 100, 10 : platform;
+3120, 70, 50, 10 : platform;
+3190, 90, 50, 10 : platform;
+3260, 110, 50, 10 : platform;
+3300, 140, 100, 10 : platform;
+2910, 0, 50, 10 : platform;
+3010, 0, 380, 10 : platform;
+3390, 0, 310, 10 : platform;
+3700, 0, 300, 10 : platform;
+
+300, 10, 10, 10 : obstacle;
+500, 0, 30, 10 : obstacle;
+735, 0, 65, 10 : obstacle;
+765, 0, 1135, 10 : obstacle;
+810, 30, 30, 10 : obstacle;
+//2200, 20, 50, 50 : obstacle;
+2300, 0, 400, 10 : obstacle;
+2700, 50, 75, 10 : obstacle;
+2800, 0, 30, 10 : obstacle;
+2850, 60, 150, 10 : obstacle;
+3100, 50, 350, 10 : obstacle;
+//3450, 16, 10, 50 : obstacle;
+2880, 0, 30, 10 : obstacle;
+2890, 10, 10, 10 : obstacle;
+2960, 0, 50, 10 : obstacle;
+//3500, 10, 30, 100 : obstacle;
+//3600, 10, 30, 100 : obstacle;
+//3650, 10, 30, 100 : obstacle;
+
+2050, 45 : enemy;
+2050, 35 : enemy;
+2050, 25 : enemy;
+2050, 15 : enemy;
+3100, 20 : enemy;
+3150, 20 : enemy;
+3200, 20 : enemy;
+3300, 20 : enemy;
+
+//600, 30 : movingEnemy;
+//3020, 80 : movingEnemy;
+//3120, 110 : movingEnemy;
+//3240, 120 : movingEnemy;
+//3270, 80 : movingEnemy;
+
+650, 30 : doubleJump;
+2940, 20 : doubleJump;
+3325, 160 : doubleJump;
+
+3375, 160 : slowDown;
+
+1920, 20 : checkpoint;
+3900, 20 : levelEnd;

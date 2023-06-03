@@ -1,0 +1,17 @@
+Narrator: ---A tick mark appears on the screen for a moment before ---fading into the background as two buttons appear. ---One says "FUTURE", the other says "PAST".
+Player: ---YES!
+Agent Furcifer: ---Ah, there you are. I appreciate you coming out of hiding, ---but that won't stop me from leaving you here. I've already given you too many chances.
+Narrator: ---Agent Furcifer lunges at you. They launch themselves over the boulder ---and try to snatch the device out of your hands. You manage to pull back your hand in time ---but cannot avoid the punch that lands a glancing blow on your shoulder. 
+Narrator: ---You stumble backwards, ---away from agent Furcifer who stalks after you.
+Agent Furcifer: ---You cannot escape now. Any further back in time and Earth will be uninhabitable. ---You're trapped here in this barren place, and it is here where you shall meet ---your doom.
+Player: ---That may have been true a few minutes ago, but not now. You're too late!
+Narrator: ---Before agent Furcifer can do anything else, you press the FUTURE button on the device,--- and the world turns black.
+Narrator: ---Then, people surround you. A wave of sound hammering your ears, overwhelming ---you for a moment after the quiet from a moment ago. The hum of engines, the honk of horns ---and the chatter of people. You're back in London. Modern-day London. Home.
+???: ---Sir?
+Narrator: ---You look around and see one of the Queen's guards standing next to you.
+???: ---Congratulations, Sir. It appears you were successful. The money you were promised ---is being transferred to your account as we speak. We are aware that you encountered some... ---unforeseen troubles during your work. 
+???: ---Do not worry about it. We shall see that you are ---not bothered again. 
+???: ---Now, all that is left is for you to hand over the device.
+Narrator: ---The man holds out his hand, palm up. For a moment, you consider making a run for it ---but decide against it. You place the device on the man's open palm.
+???: ---Thank you, Sir. Well then, it has been a pleasure working with you. Have a nice day.
+Narrator: ---The guard disappears into the crowd. You stay where you are for a moment, then ---begin to walk unsteadily towards the nearest Starbucks. After all that, you could do with a coffee.

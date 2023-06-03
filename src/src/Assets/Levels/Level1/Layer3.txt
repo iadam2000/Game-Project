@@ -1,0 +1,60 @@
+// The "//" can make comments in the text file as well.
+// Please only have either some obstacle data or a comment on a line - everything else will break things.
+// This text will be ignored when it comes to processing, but probably best to keep things reasonable.
+// Whitespace in the text will be removed during processing.
+
+// The accepted layout for obstacles and platforms is [x position, y position, width, height : type (obstacle/platform);].
+// The accepted layout for enemies is [x position, y position, : type (enemy/movingEnemy);].
+// The accepted types are [obstacle, platform, enemy, movingEnemy].
+// REMEMBER TO ADD ';' ON THE END OF EACH LINE!
+
+// There are no checks for overlapping entities here, please do that yourself.
+
+// FOR ALL
+// The values for x/y/width/height should be integers only.
+
+// Example below
+
+
+//THIS IS LEVEL ONE UPPER LAYER
+//0 units until 350 units & 900 units until 1400 units
+
+
+// These are obstacles
+
+//obstacles are 15 units high, where applicable, player can jump 20 units high
+//obstacles are 15 units wide, where applicable, player can jump 20 units across
+
+// These are obstacles - x position, y position, width, height : type (obstacle/platform)
+20,  10, 10, 15 : obstacle; 
+80,  40, 15, 15 : obstacle;  
+140, 10, 10, 15 : obstacle;
+200, 40, 15, 15 : obstacle;
+260, 10, 10, 15 : obstacle;
+220, 40, 15, 15 : obstacle;
+260, 10, 10, 15 : obstacle;
+350, 10, 450, 15 : obstacle; //Player needs to switch layers in order to progress at this point 
+950, 0, 20, 10 : obstacle;
+1000, 60, 25, 10 : obstacle;
+1040, 0, 40, 10 : obstacle;
+1095, 60, 25, 10 : obstacle;
+1130, 0, 120, 10 : obstacle; 
+1265, 90, 25, 10 : obstacle;
+1300, 0, 100, 10 : obstacle; 
+1400, 0, 600, 10 : obstacle;
+
+// These are platforms - x position, y position, width, height : type (obstacle/platform)
+0, 0, 800, 10 : platform; 
+800, 0, 150, 10 : platform;
+950, 20, 25, 10 : platform;
+970, 0, 70, 10 : platform;
+1050, 20, 25, 10 : platform;
+1080, 0, 50, 10 : platform;
+1145, 20, 25, 10 : platform; 
+1185, 30, 25, 10 : platform; 
+1225, 40, 25, 10 : platform; 
+1250, 0, 50, 10 : platform;
+1315, 20, 20, 10 : platform;
+1350, 20, 20, 10 : platform;
+1400, 20, 20, 10 : platform; //Player cannot proceed beyond this point - they will need to switch layers to the lower layer
+2000, 0, 300, 10 : platform;

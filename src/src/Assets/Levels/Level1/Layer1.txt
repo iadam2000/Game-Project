@@ -1,0 +1,56 @@
+// The accepted layout for obstacles and platforms is [x position, y position, width, height : type (obstacle/platform);].
+// The accepted layout for enemies is [x position, y position, : type (enemy/movingEnemy);].
+// The accepted types are [obstacle, platform, enemy, movingEnemy].
+// REMEMBER TO ADD ';' ON THE END OF EACH LINE!
+
+// There are no checks for overlapping entities here, please do that yourself.
+
+// FOR ALL
+// The values for x/y/width/height should be integers only.
+
+// Example below
+
+
+//THIS IS LEVEL ONE LOWER LAYER
+//1300 units until 2000 units
+
+
+// These are obstacles
+
+//obstacles are 15 units high, where applicable, player can jump 20 units high
+//obstacles are 15 units wide, where applicable, player can jump 20 units across
+
+// These are obstacles - x position, y position, width, height : type (obstacle/platform)
+200, 0, 1300, 10 : obstacle; //Player can only interact with lower layer after 1300 units until 2000 units
+1350, 0, 100, 10 : obstacle;
+1550, 20, 10, 10 : obstacle;
+1570, 20, 10, 10 : obstacle;
+1590, 20, 10, 10 : obstacle;
+1610, 20, 10, 10 : obstacle;
+1630, 20, 10, 10 : obstacle;
+1640, 20, 10, 10 : obstacle;
+1730, 30, 20, 5 : obstacle;
+1760, 30, 20, 5 : obstacle;
+1790, 30, 20, 5 : obstacle;
+1450, 0, 250, 10 : obstacle;
+1830, 20, 10, 5 : obstacle;
+1870, 20, 10, 5 : obstacle;
+1910, 20, 10, 5 : obstacle;
+1950, 20, 10, 5 : obstacle;
+1990, 20, 10, 5 : obstacle;
+
+// These are platforms - x position, y position, width, height : type (obstacle/platform)
+0, 0, 200, 10 : platform;
+950, 10, 100, 10 : platform;
+1070, 20, 50, 10 : platform;
+1120, 30, 50, 10 : platform;
+1170, 40, 40, 10 : platform;
+1210, 60, 40, 10 : platform;
+1250, 80, 40, 10 : platform;
+1300, 100, 50, 10 : platform;
+1365, 20, 50, 10 : platform;
+1420, 30, 50, 10 : platform;
+1480, 20, 50, 10 : platform;
+1540, 30, 100, 10 : platform;
+1650, 25, 50, 10 : platform;
+1700, 0, 600, 10 : platform;
