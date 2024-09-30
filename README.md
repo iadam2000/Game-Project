@@ -1,5 +1,7 @@
 # Game
 
+Welcome to my group university game development project!
+
 **Accessing Debug Mode in the game**
 
 When in a level, you can access debug mode by pressing the 'g' key. In debug mode, the game is effectively paused (although no pause screen should be visible unless 'esc' is pressed). You can use the arrow keys/WASD to look around the level. If you press 'space' when in debug mode, you will enable player debugging.
